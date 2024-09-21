@@ -1,7 +1,7 @@
 # Information Privacy: An analysis of organisational practices
 ## Introduction
-This is the project I undertook during my final year of University, being worth 50% of my degree it was important for me to remain consistent. Whether that be in research, goals or whatever else. This consistency allowed for 
-the integration of new ideas and improvements while ensuring that my project is still aligned with the initial objective. From the beginning, the focus was on the privacy landscape and organisational practices. I received 80% on my project and was very pleased with it so I decided to add it here.
+This is the project I undertook during my final year of University, being worth 50% of my degree it was important for me to remain consistent. Whether that be in research, goals, attending meetings, or whatever else. This consistency allowed for 
+the integration of new ideas and improvements while ensuring that my project was still aligned with the initial objective. From the beginning, the focus was on the privacy landscape and organisational practices. I received 80% on this project and was very pleased with my grade so I decided to add it here.
 ## Abstract
 This project explores the challenges organisations face in ensuring information privacy and 
 compliance with global privacy laws. My research investigates the implementation of policies and 
